@@ -75,14 +75,31 @@
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> 
   </a> 
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="kaggle" width="40" height="40"/>
+  <!-- Alternative Kaggle Icon -->
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="kaggle" width="40" height="40"/>
 </a>
+
 
 <!-- Streamlit Icon -->
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/>
 </a>
+<!-- Alternative Anaconda Icon -->
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
+</a>
+
+<!-- Alternative Jupyter Notebook Icon -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+</a>
+<!-- Spyder Icon -->
+<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="spyder" width="40" height="40"/>
+</a>
+
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanduni&show_icons=true&locale=en&layout=compact" alt="hasanduni" /></p>
