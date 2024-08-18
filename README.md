@@ -97,9 +97,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanduni&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanduni&" alt="GitHub Streak Stats" />
 </p>
